@@ -11,5 +11,7 @@ Procedural programming is concerned with defining a linear procedure or sequence
 Object oriented programming is a programming language that features concepts, such as Abstraction, Inheritance, Encapsulation and Polymorphic. Examples of popular object oriented programming languages such as Java, C++, and C# that can be used to follow this paradigm. Data as well as operations are encapsulated as objects. Objects interact by the means of message passing, by calling methods on other entitites. 
 Objects can extend other objects, inheriting some or all of the attributes and behaviours from the parent providing specific modular reuse. Objects can be treated as a parent type (an object in its inheritance tree) allowing the use or application of the objects in the program without the caller knowing the specifics of the behaviour or data inside the object. This general property is called polymorphism, which exploits the encapsulation of attributes and behaviour within objects and their capability of being treated (viewed or interacted with) as a parent type.
 ## Event Driven Programming
-Event driven programming is a programming paradigm in which the flow of the program  depends on the events, such as user actions (mouse clicks, key presses), sensor outputs or messages from programs. 
-# References
+Event driven programming is a programming paradigm in which the flow of the program  depends on the events, such as user actions (mouse clicks, key presses), sensor outputs or messages from programs. Event driven programming is manily used in graphical user interfaces (such as Javascript web applications) that focuses certain actions in response to user input. 
+## Relationships
+
+## References
