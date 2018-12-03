@@ -15,6 +15,6 @@ Event driven programming is a programming paradigm in which the flow of the prog
 ## Relationships
 
 ## References
-https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms
-https://en.wikipedia.org/wiki/Event-driven_programming
-https://en.wikipedia.org/wiki/Programming_paradigm#Procedural_languages
+- https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms
+- https://en.wikipedia.org/wiki/Event-driven_programming
+- https://en.wikipedia.org/wiki/Programming_paradigm#Procedural_languages
