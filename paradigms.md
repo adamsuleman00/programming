@@ -19,3 +19,4 @@ Event driven programming is a programming paradigm in which the flow of the prog
 - https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms
 - https://en.wikipedia.org/wiki/Event-driven_programming
 - https://en.wikipedia.org/wiki/Programming_paradigm#Procedural_languages
+- https://www.adobe.com/devnet/actionscript/learning/oop-concepts/objects-and-classes.html
