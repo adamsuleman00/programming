@@ -11,9 +11,11 @@ Procedural programming is a paradigm in which code is structured into linear seq
 Object oriented programming (OOP) is focused on hierarchy of classes and defined object. Examples of popular object oriented programming languages, such as Java, C++, and C# that can be used to follow this paradigm. Classes and objects are encapsulated and the code is split into reusable subsystems. 
 
 ## Event Driven Programming
-Event driven programming is a programming paradigm in which the flow of the program  depends on the events, such as user actions (mouse clicks, key presses), sensor outputs or messages from programs. Event driven programming is manily used in graphical user interfaces (such as Javascript web applications) that focuses certain actions in response to user input. 
+Event driven programming is a programming paradigm in which the flow of the program  depends on the events, such as user actions (mouse clicks, key presses), sensor outputs or messages from programs. Event driven programming is manily used in graphical user interfaces (such as Javascript web applications) that focuses certain actions in response to user input. This paradigm is often used for interactive applications such as video games.
 
 ## Relationships
+Procedural programming defines the program in a series of steps which is executed in direct order. This programming style is structured, thus has to be created in a specific order. In addition, in Event-driven programming is created by writing event handling procedures. However, they are similar as the code in the event listeners is procedural as they contain functions calls, which must run in the order the instructions, are written in.
+Object-orientated programming implementation of the code is different to procedural and event-driven as it does not use inputs or follow code in a logical order. Object-orientated programming runs on classes and objects, which are different compared to other paradigms. A class act as a blueprint while Object is paired together with data and actions.
 
 ## References
 - https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms
